@@ -7,6 +7,7 @@ export CPPFLAGS="-I/opt/homebrew/opt/libffi/include"
 export PKG_CONFIG_PATH="/opt/homebrew/opt/libffi/lib/pkgconfig"
 
 alias varnish="echo > ~/.zsh_history && kill -9 $$"
+alias updatedv="sudo /usr/libexec/locate.updatedb"
 alias zz="ls -la"
 alias unbr="unbroot | head -n 10 | tail -n 10 | head -n 1"
 alias gpush="git push"
