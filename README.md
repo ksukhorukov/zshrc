@@ -3,9 +3,12 @@
 My own Z-Shell Profile Configuraion File
 
 ````
-user@air zshrc$ cat ~/.zshrc
-PiROMPT='%n@%m %1~$ '
-i
+Last login: Sat Dec 30 23:53:28 on ttys000
+
+>> ну ты пиздец обмудок
+
+user@air Data $ cat ~/.zshrc
+PROMPT='%n@%m %1~ $ '
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 cd /Users/user/Desktop/Data
 
@@ -30,6 +33,7 @@ export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@3)"
 export PATH="$PATH:/Users/user/workspace/sotd/"
 sotd
 
+PATH="$PATH:/Users/user/workspace/unbroot"
 
 ````
 
