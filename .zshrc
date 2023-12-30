@@ -1,4 +1,4 @@
-PROMPT='%n@%m %1~ $'
+PROMPT='%n@%m %1~$ '
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 cd /Users/user/Desktop/Data
 
