@@ -28,5 +28,7 @@ export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@3)"
 export PATH="$PATH:/Users/user/workspace/sotd/"
 sotd
 
+# [EOF]
+
 PATH="$PATH:/Users/user/workspace/unbroot"
 ````
