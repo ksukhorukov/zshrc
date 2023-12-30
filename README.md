@@ -3,7 +3,6 @@
 My own Z-Shell Profile Configuraion File
 
 ````
-drwxr-xr-x   5 user  staff       160 Dec 30 16:50 zshrc
 user@air workspace $ cat ~/.zshrc
 PROMPT='%n@%m %1~$ '
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
